@@ -13,7 +13,7 @@ let auth = { type: 'key', clientKey: "Z29vZ2xlLW9hdXRoMnwxMDEwMjk3NTAyMTY2MTQwNz
  
 
 // 3. Paste the `data-agent-id' in the 'agentId' variable
-let agentId = "v2_agt_QifAM16k"
+let agentId = "ee2_agt_QifAM16k"
 
 
 
@@ -328,7 +328,7 @@ let auth2 = { type: 'key', clientKey: "Z29vZ2xlLW9hdXRoMnwxMDEwMjk3NTAyMTY2MTQwN
  
 
 // 3. Paste the `data-agent-id' in the 'agentId' variable
-let agentId2 = "v2_agt_QifAM16k"
+let agentId2 = "rrv2_agt_QifAM16k"
 
 
 
